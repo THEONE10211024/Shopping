@@ -2,46 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jar="C:\Users\xiayong\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\classes-b8199d425eccd8652f002370664612ed4a7e59da.jar" />
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1-c0fd47029441c1e4245f4237ba4917d647f25e39.jar" />
     </item>
     <item
-        jar="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jar="C:\Users\xiayong\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-87d5e07dd20b828bb15b6a5a927c22dbc2edbb7f.jar" />
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\commons-cli-1.2-51f4d6163a19087b8ed57a75ab137a3dee6ce523.jar" />
     </item>
     <item
-        jar="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jar="C:\Users\xiayong\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp\1.1.1\1732524bc9a7c660032c73133ce27749a64ba456\stetho-okhttp-1.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\classes-de1c79ed1d75feb84ecec7dafdd0ad2d02244bed.jar" />
+        sha1="1732524bc9a7c660032c73133ce27749a64ba456">
+        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\stetho-okhttp-1.1.1-8002020b4eb43f202fd685adfb425b0763ed6c8b.jar" />
     </item>
     <item
-        jar="C:\Users\xiayong\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jar="C:\Users\xiayong\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.1.1\ab1142c5adfa474e7494cba19fd9fc6e73207960\stetho-1.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
-        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\okio-1.4.0-746c59f8a7969adf90cc20068ffc7c285d280dc9.jar" />
-    </item>
-    <item
-        jar="C:\Users\xiayong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
-        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-912385fa720d617acb0751f8b73484647a33b23d.jar" />
-    </item>
-    <item
-        jar="D:\Users\xiayong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-d04dfbdfc0cfde918251932d3ea98fbee71546e0.jar" />
+        sha1="ab1142c5adfa474e7494cba19fd9fc6e73207960">
+        <dex dex="C:\Users\xiayong\workspace\Shopping\app\build\intermediates\pre-dexed\debug\stetho-1.1.1-a6fd1ffd6728e6164dbff5fd4f80cd5d6e9db252.jar" />
     </item>
 
 </items>

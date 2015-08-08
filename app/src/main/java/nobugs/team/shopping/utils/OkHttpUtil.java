@@ -1,5 +1,6 @@
 package nobugs.team.shopping.utils;
 
+import com.facebook.stetho.okhttp.StethoInterceptor;
 import com.squareup.okhttp.Callback;
 import com.squareup.okhttp.MediaType;
 import com.squareup.okhttp.OkHttpClient;
@@ -23,7 +24,7 @@ public class OkHttpUtil {
 
     static {
         mOkHttpClient.setConnectTimeout(30, TimeUnit.SECONDS);
-
+        mOkHttpClient.networkInterceptors().add(new StethoInterceptor());
     }
 
     /**
